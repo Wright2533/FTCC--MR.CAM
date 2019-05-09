@@ -1,0 +1,17 @@
+TDSC01 file format
+
+File width  80 columns
+
+Field Name   Field Size
+
+Filler       7
+
+Item ID      6
+
+Buyer        20
+
+Item Name    15
+
+Filler       27
+
+Price        5
